@@ -1,0 +1,6 @@
+framework module Pods_Meatz_MeatzUITests {
+  umbrella header "Pods-Meatz-MeatzUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
